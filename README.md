@@ -1,5 +1,6 @@
 # DCIT_205_IA
 # Computer Science Department Website - User Guide
+# Computer Science Department Website - User Guide
 
 Welcome to the user guide for our Computer Science Department's website. This guide will help you navigate through the various sections of the website and make the most of the resources available.
 
@@ -32,3 +33,5 @@ Stay updated with the latest events in our department. This includes workshops, 
 Find the contact details of our department, including the location, phone number, and email address. You can also find the office hours of our faculty members.
 
 We hope this guide helps you navigate our website and make the most of the resources available. If you have any questions or need further assistance, please don't hesitate to contact us.
+
+
