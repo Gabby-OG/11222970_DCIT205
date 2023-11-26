@@ -1,5 +1,5 @@
 # DCIT_205_IA
-# Computer Science Department Website - User Guide
+
 # Computer Science Department Website - User Guide
 
 Welcome to the user guide for our Computer Science Department's website. This guide will help you navigate through the various sections of the website and make the most of the resources available.
