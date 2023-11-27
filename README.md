@@ -1,4 +1,4 @@
-# DCIT_205_IA
+
 
 # Computer Science Department Website - User Guide
 
