@@ -1,14 +1,10 @@
 
-
+#DCIT 205
 # Computer Science Department Website - User Guide
 
 Welcome to the user guide for our Computer Science Department's website. This guide will help you navigate through the various sections of the website and make the most of the resources available.
 
 ## Home
-
-
-
-
 ![Web capture_27-11-2023_153927_](https://github.com/Daquiver1/DCIT_205_IA/assets/148434566/e3e58c3e-b149-409e-a024-2f05d13336ea)
 
 The home page provides an overview of the department, including a welcome message, news updates, and highlights of recent events and achievements.
