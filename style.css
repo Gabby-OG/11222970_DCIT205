@@ -52,14 +52,15 @@
 body{
     background-color: #dadada;
 }.container{
-    display: flex;
-    
+    display: inline-flex;
     flex-wrap: wrap;
-    margin-top: 92px;
-   position: absolute;
+    margin-top: 75px;
+   position: relative;
+   
 }
 .card{
-    width: 325px;
+    width: 330px;
+    height: auto;
     background-color: #f0f0f0;
     border-radius: 8px;
     overflow: hidden;
@@ -101,27 +102,23 @@ body{
 .button:hover{
     background-color: rgb(96, 190, 190);
 }
-footer{
-    position: absolute;
-    background-color: black;
+.navibar{
+    
+    background-color:  rgb(98, 96, 104);
+   position: fixed;
+    bottom: -10px;
     width: 100%;
+}
+.navibar a{
+    float: left;
+    display: flex;
     color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17;
+    transition: 0.4s ease-in-out;
 }
-footer{
-    height: 17vh;
-    bottom: -60px;
-    margin: 0;
-    padding: 0%;
-    
-}
-.row{
-    display: inline-block;
-    margin: 10px;
-    
-    
-}
-ul{
-    list-style: none;
-    color: #dadada;
-    
+.navibar a:hover{
+    color: lightcoral;
 }

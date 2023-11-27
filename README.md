@@ -6,6 +6,7 @@ Welcome to the user guide for our Computer Science Department's website. This gu
 
 ## Home
 
+
 The home page provides an overview of the department, including a welcome message, news updates, and highlights of recent events and achievements.
 
 ## About Us
